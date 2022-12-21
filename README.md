@@ -1,4 +1,4 @@
-# 11 Express.js: Note Taker
+# The Note Taker
 
 ## Live site
 [Live Site](https://hidden-garden-01554.herokuapp.com/)

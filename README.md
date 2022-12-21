@@ -47,6 +47,8 @@ The following images show the web application's appearance and functionality:
 
 ![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./public/assets/media/11-express-homework-demo-02.png)
 
+![Demo](./public/assets/media/demo.gif)
+
 
 ## License
 MIT License

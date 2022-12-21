@@ -3,9 +3,11 @@ const path = require('path');
 // const api = require('./routes/index.js');
 const apiRoutes = require('./routes/api-routes');
 const htmlRoutes = require('./routes/html-routes');
-const PORT = 3001;
+// const PORT = 3001;
 
 const app = express();
+
+const PORT = process.env.PORT || 3001;
 
 // Import custom middleware, "cLog"
 // app.use(clog);
